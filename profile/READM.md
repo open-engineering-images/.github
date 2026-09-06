@@ -1,6 +1,8 @@
-Open Engineering Images
+# Open Engineering Images
 
 The visual language of Open Engineering.
+
+![Open Engineering Images hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Images is the visual layer of the Open Engineering ecosystem.
 
@@ -10,7 +12,7 @@ Make engineering visible.
 
 ⸻
 
-What is an Open Engineering Image?
+## What is an Open Engineering Image?
 
 An Open Engineering Image is more than a picture.
 
